@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @laszlojanos
+- 👀 I’m interested in data analysis and data visualization
+- 📫 janoslaszlo@gmail.com
